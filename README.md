@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There!! 👋
 [Link to Site](https://matthewtrent.me/) (in development as of 29/12/2021)
 
 Hey, I'm Matthew, a software focused university student from Abbotsford, Canada. 
