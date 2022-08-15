@@ -1,4 +1,5 @@
-# Hey! I'm Matthew Trent, a Developer.
+# Hey! I'm Matthew Trent, a Developer. 
+### ✨ Check my second account, too: [@mattrltrent2](https://github.com/mattrltrent2) (I use both) ✨
 *[My Personal Website](https://matthewtrent.me/)*
 #### What I'm Up To
 - Coding a startup (frontend lead).
