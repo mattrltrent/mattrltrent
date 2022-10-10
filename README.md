@@ -2,7 +2,7 @@
 ### ✨ Check my second account, too: [@mattrltrent2](https://github.com/mattrltrent2) (I use both, normally my second for collaboration) ✨
 *[My Personal Website](https://matthewtrent.me/)*
 #### What I'm Up To
-- Coding a startup (frontend lead).
+- Coding a startup (frontend lead), EDIT: Now an advisor.
 - Honing my Javascript skills, alongside associated frameworks & libraries.
 - Working through my computer science courses at the University of Victoria.
 - Looking for opportunities to collaborate with fellow developers.
