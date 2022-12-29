@@ -1,5 +1,4 @@
 # Hey! I'm Matthew Trent, a Developer. 
-*My recent commits aren't being logged properly :/*
 
 *[My Personal Website](https://matthewtrent.me/links)*
 #### What I'm Up To
