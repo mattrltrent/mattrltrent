@@ -1,4 +1,4 @@
-# Hey! I'm Matthew Trent, a Developer. 
+# Hey! I'm Matthew Trent, a Developer. 👋
 
 *[My Personal Website](https://matthewtrent.me/links)*
 #### What I'm Up To
