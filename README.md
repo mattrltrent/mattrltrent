@@ -5,7 +5,6 @@
 [Email](mailto:me@matthewtrent.me?subject=Howdy)<br>
 [LinkedIn](https://www.linkedin.com/in/matthewrltrent/)
 #### 📜 What I'm up to
-- Coding a startup (frontend lead), *EDIT: Now an advisor.*
 - Working through my computer science courses at the University of Victoria.
 - Looking for opportunities to collaborate with fellow developers.
 - Contributing to [#opensource](https://pub.dev/publishers/matthewtrent.me/packages).
