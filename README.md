@@ -15,7 +15,7 @@
 
 #### 🤫 Private projects
 
-I have many private projects. If you're interetested in hearing about them, let me know!
+I have many private projects. If you're interested in hearing about them, let me know!
 
 #### ✨ Who I am
 I’m currently a nineteen-year-old undergraduate student studying computer science at the University of Victoria (BC, Canada). Derivable from my degree, I have a passion for tech. Additionally, this love for software often bubbles over into the world of finance, pushing me to also further my business knowledge.
