@@ -1,5 +1,5 @@
 # Hey! I'm Matthew Trent, a developer 👋
-*NOTE: The LeetCode bot is now private, if you want to use it, let's talk on Discord*
+*NOTE: The LeetCode bot is now private; if you want to use it, let's talk on Discord*
 #### 🌿 Let's collaborate, chat, or learn together! Feel free to message me!
 [Portfolio website](https://matthewtrent.me/links)<br>
 [(Personal) Instagram](https://www.instagram.com/matthewrltrent/)<br>
