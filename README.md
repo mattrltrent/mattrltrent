@@ -1,5 +1,11 @@
+
 # Hey! I'm Matthew Trent, a developer 👋
-*NOTE: The LeetCode bot is now private; if you want to use it, let's talk on Discord*
+⬇️ Check out my [Stack Overflow stats badge repo here](https://github.com/mattrltrent/stackoverflow_badge)!
+
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stack_overflow?username=13029516&period=year)
+
+**NOTE**: The LeetCode bot is now private; if you want to use it, let's talk on Discord.
+
 #### 🌿 Let's collaborate, chat, or learn together! Feel free to message me!
 [Portfolio website](https://matthewtrent.me/links)<br>
 [(Personal) Instagram](https://www.instagram.com/matthewrltrent/)<br>
@@ -21,4 +27,4 @@ I have many private projects. If you're interested in hearing about them, let me
 #### ✨ Who I am
 I’m currently a nineteen-year-old undergraduate student studying computer science at the University of Victoria (BC, Canada). Derivable from my degree, I have a passion for tech. Additionally, this love for software often bubbles over into the world of finance, pushing me to also further my business knowledge.
 
-<sub>Updated February 24, 2023</sub>
+<sub>Updated May 3, 2023</sub>
