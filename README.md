@@ -2,7 +2,7 @@
 # Hey! I'm Matthew Trent, a developer 👋
 ⬇️ Check out my [Stack Overflow stats badge repo here](https://github.com/mattrltrent/stackoverflow_badge)!
 
-![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stack_overflow?username=13029516&period=year)
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year)
 
 **NOTE**: The LeetCode bot is now private; if you want to use it, let's talk on Discord.
 
