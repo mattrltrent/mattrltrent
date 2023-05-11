@@ -1,6 +1,6 @@
 
 # Hey! I'm Matthew Trent, a developer 👋
-⬇️ Check out my [Stack Overflow stats badge repo here](https://github.com/mattrltrent/stackoverflow_badge)!
+⬇️ Check out my [Stack Overflow stats badge repo here](https://github.com/mattrltrent/stackoverflow_badge) (currently averaging ~150 requests to server daily):
 
 <a href="https://stackoverflow-badge.herokuapp.com"><img alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a> 
 
