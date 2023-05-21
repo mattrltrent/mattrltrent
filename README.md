@@ -1,4 +1,4 @@
-# Hey! I'm Matt — a developer 👋
+# Hello world! I'm Matt — a developer 👋
 **About me**
 - Currently working through my computer science BSc @ [UVic](https://www.uvic.ca/).
 - Growing my online software presence: [audience 1](https://www.instagram.com/comicalcoder/), [audience 2](https://www.instagram.com/nerds_coding/)  (77,000+ followers).
