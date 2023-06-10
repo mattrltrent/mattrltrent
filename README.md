@@ -5,11 +5,11 @@
 - Contributing to [#opensource](https://pub.dev/publishers/matthewtrent.me/packages).
 - Always looking to [collaborate](mailto:me@matthewtrent.me?subject=Howdy)!
 
-**Check out my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) if you like orange rectangles:**
+**You may find my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) interesting if you like orange rectangles:**
 
 <a href="https://stackoverflow-badge.herokuapp.com"><img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a> 
 
-**... or my [github_painter](https://github.com/mattrltrent/github_painter) if you prefer green squares:**
+**... or my [github_painter](https://github.com/mattrltrent/github_painter) if you're a green square kinda person:**
 
 <a href="[https://stackoverflow-badge.herokuapp.com](https://github.com/mattrltrent/github_painter)"><img src="ex_1.JPG" width="500px" height="auto" style="display: inline"/></a> 
 
