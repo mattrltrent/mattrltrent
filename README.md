@@ -13,7 +13,7 @@
 
 <a href="[https://stackoverflow-badge.herokuapp.com](https://github.com/mattrltrent/github_painter)"><img src="ex_1.JPG" width="500px" height="auto" style="display: inline"/></a> 
 
-**Recent hackathons**
+**Recent hackathons:**
 
 | Event        | Repo(s)           | Result  |
 | :-------------: |:-------------:| :-----:|
