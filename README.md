@@ -18,10 +18,10 @@
 
 | Event        | Repo(s)           | Result  |
 | :-------------: |:-------------:| :-----:|
-| [Island Health CODEHACK](https://www.islandhealth.ca)     | [Mobile app](https://github.com/mattrltrent/code_hack_2023_client), [Web app](https://github.com/julhoang/code_hack_patient_app), [Server](https://github.com/mattrltrent/code_hack_2023_server) | My teammate and I got recognized for hacking the hackathon before it started, getting awarded symbolic white toques pre-event. |
-| [UVic Engineering Competition](https://onlineacademiccommunity.uvic.ca/ess/university-of-victoria-engineering-competition/)      | [Client](https://github.com/mattrltrent/eng_comp_client), [Server](https://github.com/mattrltrent/eng_comp_server)      |   1st place after digesting enough caffeine to decimate an elephant. |
+| [Island Health CODEHACK](https://www.islandhealth.ca)     | [Mobile app](https://github.com/mattrltrent/code_hack_2023_client), [Web app](https://github.com/julhoang/code_hack_patient_app), [Server](https://github.com/mattrltrent/code_hack_2023_server) | My teammate and I got recognized for hacking the hackathon before it started, getting awarded symbolic white toques pre-event 👻 |
+| [UVic Engineering Competition](https://onlineacademiccommunity.uvic.ca/ess/university-of-victoria-engineering-competition/)      | [Client](https://github.com/mattrltrent/eng_comp_client), [Server](https://github.com/mattrltrent/eng_comp_server)      |   1st place after digesting enough caffeine to decimate an elephant 🥇 |
 
 
 *Note: I made the LeetCode bot private. If you want to use it, let's talk on Discord.*
 
-<sub>Updated July 15, 2023</sub>
+<sub>Updated July 31, 2023</sub>
