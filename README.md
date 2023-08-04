@@ -6,7 +6,7 @@
 - Contributing to [#opensource](https://pub.dev/publishers/matthewtrent.me/packages).
 - Always looking to [collaborate](mailto:me@matthewtrent.me?subject=Howdy)!
 
-**You may find my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) interesting if you like orange rectangles:**
+**You may find my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) interesting if you like orange rectangles (over 100 daily users):**
 
 <a href="https://stackoverflow-badge.herokuapp.com"><img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a> 
 
@@ -24,4 +24,4 @@
 
 *Note: I made the LeetCode bot private. If you want to use it, let's talk on Discord.*
 
-<sub>Updated July 31, 2023</sub>
+<sub>Updated August 4, 2023</sub>
