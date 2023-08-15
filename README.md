@@ -23,6 +23,6 @@
 | [UVic Engineering Competition](https://onlineacademiccommunity.uvic.ca/ess/university-of-victoria-engineering-competition/)      | [Client](https://github.com/mattrltrent/eng_comp_client), [Server](https://github.com/mattrltrent/eng_comp_server)      |   1st place after digesting enough caffeine to decimate an elephant 🥇 |
 
 
-*Note: I made the LeetCode bot private. If you want to use it, let's talk on Discord.*
+*Note: I made the LeetCode bot private. If you want to use/buy it, let's talk on Discord.*
 
-<sub>Updated August 6, 2023</sub>
+<sub>Updated August 15, 2023</sub>
