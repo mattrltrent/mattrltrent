@@ -9,7 +9,7 @@
 
 **You may find my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) interesting if you like orange rectangles (over 100 daily users):**
 
-<a href="https://stackoverflow-badge.herokuapp.com"><img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516999&period=year"></a> 
+<a href="https://stackoverflow-badge.herokuapp.com"><img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a> 
 
 **... or my [github_painter](https://github.com/mattrltrent/github_painter) if you're a green square kinda person (in use on my 2018 year):**
 
