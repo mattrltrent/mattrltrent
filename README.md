@@ -13,7 +13,7 @@
 
 **... or my [github_painter](https://github.com/mattrltrent/github_painter) if you're a green square kinda person (in-use on my 2018 year):**
 
-<a href="[https://stackoverflow-badge.herokuapp.com](https://github.com/mattrltrent/github_painter)"><img src="ex_1.JPG" width="500px" height="auto" style="display: inline"/></a> 
+<img src="ex_1.JPG" width="500px" height="auto" style="display: inline"/>
 
 **Recent hackathons:**
 
