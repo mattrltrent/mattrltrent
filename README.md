@@ -1,6 +1,7 @@
 # Hello world, I'm Matt! 👋
 **What I'm up to:**
 - Coding a startup: [confesi.com](https://confesi.com) 🚀
+- Check out my [live JSON stats](https://matthewtrent.me) (~24h caching).
 - Running a [learn-to-code Discord](https://discord.gg/cWHnQFSfMy).
 - Working through my honours computer science degree @ [UVic](https://www.uvic.ca/).
 - Growing my online software presence: [audience 1](https://www.instagram.com/comicalcoder/), [audience 2](https://www.instagram.com/nerds_coding/).
@@ -25,4 +26,4 @@
 
 *Note: I made the LeetCode bot private. If you want to use/buy it, let's talk on Discord.*
 
-<sub>Updated December 19, 2023</sub>
+<sub>Updated January 15, 2024</sub>
