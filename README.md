@@ -1,7 +1,7 @@
 # Hello world, I'm Matt! 👋
 **What I'm up to:**
 - Coding a startup: [confesi.com](https://confesi.com) 🚀
-- Check out my [live JSON stats](https://matthewtrent.me) (~24h caching).
+- Check out my [live JSON stats](https://matthewtrent.me/stats) (~24h caching).
 - Running a [learn-to-code Discord](https://discord.gg/cWHnQFSfMy).
 - Working through my honours computer science degree @ [UVic](https://www.uvic.ca/).
 - Growing my online software presence: [audience 1](https://www.instagram.com/comicalcoder/), [audience 2](https://www.instagram.com/nerds_coding/).
