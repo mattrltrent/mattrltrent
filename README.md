@@ -7,6 +7,7 @@
 - Growing my online software presence: [audience 1](https://www.instagram.com/comicalcoder/), [audience 2](https://www.instagram.com/nerds_coding/).
 - Contributing to [#opensource](https://pub.dev/publishers/matthewtrent.me/packages).
 - Always looking to [collaborate](mailto:me@matthewtrent.me?subject=Howdy)!
+- Most of my repos are private, feel free to ask about them though!
 
 **You may find my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) interesting if you like orange rectangles:**
 
@@ -26,4 +27,4 @@
 
 *Note: I made the LeetCode bot private. If you want to use/buy it, let's talk on Discord.*
 
-<sub>Updated January 15, 2024</sub>
+<sub>Updated January 17, 2024</sub>
