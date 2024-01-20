@@ -5,15 +5,15 @@
 - Running a [learn-to-code Discord](https://discord.gg/cWHnQFSfMy).
 - Working through my honours computer science degree @ [UVic](https://www.uvic.ca/).
 - Growing my online software presence: [audience 1](https://www.instagram.com/comicalcoder/), [audience 2](https://www.instagram.com/nerds_coding/).
-- Contributing to [#opensource](https://pub.dev/publishers/matthewtrent.me/packages).
+- Contributing to open-source: [package manager 1](https://pub.dev/publishers/matthewtrent.me/packages), [package manager 2](https://pkg.go.dev/github.com/mattrltrent/jsonencryption).
 - Always looking to [collaborate](mailto:me@matthewtrent.me?subject=Howdy)!
-- Most of my repos are private, feel free to ask about them though!
+- Most of my repos are private, but feel free to ask about them!
 
 **You may find my [stackoverflow_badge](https://github.com/mattrltrent/stackoverflow_badge) interesting if you like orange rectangles:**
 
 <a href="https://stackoverflow-badge.herokuapp.com"><img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a> 
 
-**... or my [github_painter](https://github.com/mattrltrent/github_painter) if you're a green square kinda person (in-use on my 2018 year):**
+**... or my [github_painter](https://github.com/mattrltrent/github_painter) if you're a green square kind of person (in-use on my 2018 year):**
 
 <img src="ex_1.JPG" width="500px" height="auto" style="display: inline"/>
 
@@ -25,6 +25,6 @@
 | [UVic Engineering Competition](https://onlineacademiccommunity.uvic.ca/ess/university-of-victoria-engineering-competition/)      | [Client](https://github.com/mattrltrent/eng_comp_client), [Server](https://github.com/mattrltrent/eng_comp_server)      |   1st place after digesting enough caffeine to decimate an elephant 🥇 |
 
 
-*Note: I made the LeetCode bot private. If you want to use/buy it, let's talk on Discord.*
+*Note: The LeetCode bot is now private. If you want to use/buy it, let's talk on Discord.*
 
-<sub>Updated January 17, 2024</sub>
+<sub>Updated January 20, 2024</sub>
