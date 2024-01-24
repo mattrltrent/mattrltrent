@@ -1,4 +1,7 @@
 # Hello world, I'm Matt! 👋
+
+![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
+
 **What I'm up to:**
 - Coding a startup: [confesi.com](https://confesi.com) 🚀
 - Check out my [live JSON stats](https://matthewtrent.me/stats) (~24h caching).
