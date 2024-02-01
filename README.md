@@ -6,9 +6,10 @@
 - Coding a startup: [confesi.com](https://confesi.com) 🚀
 - Check out my [live JSON stats](https://matthewtrent.me/stats) (~24h caching).
 - Running a [learn-to-code Discord](https://discord.gg/cWHnQFSfMy).
-- Working through my honours computer science degree @ [UVic](https://www.uvic.ca/).
+- Working through my 4th-year honours computer science courses @ [UVic](https://www.uvic.ca/).
 - Growing my online software presence: [audience 1](https://www.instagram.com/comicalcoder/), [audience 2](https://www.instagram.com/nerds_coding/).
-- Contributing to open-source: [package manager 1](https://pub.dev/publishers/matthewtrent.me/packages), [package manager 2](https://pkg.go.dev/github.com/mattrltrent/jsonencryption).
+- Contributing to open-source.
+- Writing [coding content](https://matthewtrent.me/articles).
 - Always looking to [collaborate](mailto:me@matthewtrent.me?subject=Howdy)!
 - Most of my repos are private, but feel free to ask about them!
 
