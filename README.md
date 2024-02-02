@@ -18,7 +18,7 @@
 - Next.js GitHub [contribution graph painter](https://github.com/mattrltrent/github_painter):
 
 	![](https://raw.githubusercontent.com/mattrltrent/mattrltrent/main/ex_1.JPG)
-- Homebrew downloadable [Rust CLI tool](https://github.com/mattrltrent/ghloc) to track your GitHub metrics:
+- Homebrew-downloadable [Rust CLI tool](https://github.com/mattrltrent/ghloc) to track your GitHub metrics:
 
 
 	![](https://raw.githubusercontent.com/mattrltrent/random_assets/main/ghloc.png)
