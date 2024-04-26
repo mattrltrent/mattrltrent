@@ -12,9 +12,11 @@
 
 ### My mini-projects for your GitHub
 
-- Rust-based `README.md`-embeddable [Stackoverflow badge](https://github.com/mattrltrent/stackoverflow_badge):
+- Rust-based customizable `README.md` [Stackoverflow badge](https://github.com/mattrltrent/stackoverflow_badge):
 
-	 <img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a>  
+	 <img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year"></a>
+  	or
+  	 <img width=280px alt="stack overflow rep. badge" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year&mini=true"></a>  
 - Next.js GitHub [contribution graph painter](https://github.com/mattrltrent/github_painter):
 
 	![](https://raw.githubusercontent.com/mattrltrent/mattrltrent/main/ex_1.JPG)
