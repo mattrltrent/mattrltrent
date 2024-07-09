@@ -7,6 +7,7 @@
 - My learn-to-code [Discord server](https://discord.gg/cWHnQFSfMy)
 - [Portfolio website](https://matthewtrent.me)
 	- [Blog](https://matthewtrent.me/articles)
+   	- [Resume](https://matthewtrent.me/resume.pdf)
 	- [Social links](https://matthewtrent.me/socials) (let's connect!)
 	- [Live JSON stats](https://matthewtrent.me/stats) (~24h caching)
 
