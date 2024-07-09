@@ -14,6 +14,6 @@
 
 ### My mini-projects for your GitHub
 
-- Customizable `README.md` [Stack Overflow badge](https://github.com/mattrltrent/stackoverflow_badge)
-- GitHub [contribution graph painter](https://github.com/mattrltrent/github_painter)
-- [CLI tool](https://github.com/mattrltrent/ghloc) to track your GitHub metrics
+- Customizable [Stack Overflow badge](https://github.com/mattrltrent/stackoverflow_badge) for your `README.md` 
+- Contribution graph [painter](https://github.com/mattrltrent/github_painter)
+- [CLI tool](https://github.com/mattrltrent/ghloc) to track your metrics
