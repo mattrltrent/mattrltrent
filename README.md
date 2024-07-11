@@ -1,15 +1,11 @@
-# Hello world, I'm Matt! 👋
+# `fmt.Println("Hello world, I'm Matthew")`
 ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg) 
 ### ⭐️ Things of interest
 
-- R&D decentralized peer-to-peer search engine: [Kurlox](https://kurlox.com)
-- Social media app startup: [Confesi](https://confesi.com)
-- Learn-to-code [Discord server](https://discord.gg/cWHnQFSfMy)
-- [Portfolio website](https://matthewtrent.me)
-	- [Blog](https://matthewtrent.me/articles)
-   	- [Resume](https://matthewtrent.me/resume.pdf)
-	- [Social links](https://matthewtrent.me/socials) (let's connect!)
-	- [Live JSON stats](https://matthewtrent.me/stats) (~24h caching)
+- R&D decentralized peer-to-peer search engine: [Kurlox](https://kurlox.com) <sup>(private repo.)</sup>
+- Social media app startup: [Confesi](https://confesi.com) <sup>(private repos.)</sup>
+- [Portfolio website](https://matthewtrent.me), [blog](https://matthewtrent.me/articles), [social links](https://matthewtrent.me/socials), [resume](https://matthewtrent.me/resume.pdf), & [live stats](https://matthewtrent.me/stats) <sup>(private repo.)</sup>
+- Learn-to-code [Discord server](https://discord.gg/cWHnQFSfMy) <sup>(hosting biannual hackathons)</sup>
 
 ### ⭐️ My mini-projects for your GitHub
 
