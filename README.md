@@ -2,10 +2,10 @@
 ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg) 
 ### ⭐️ Things of interest
 
-- My R&D decentralized peer-to-peer search engine: [Kurlox](https://kurlox.com) <sup>(private repo.)</sup>
-- My social media app startup: [Confesi](https://confesi.com) <sup>(private repos.)</sup>
-- [Portfolio website](https://matthewtrent.me), [blog](https://matthewtrent.me/articles), [social links](https://matthewtrent.me/socials), [resume](https://matthewtrent.me/resume.pdf), & [live stats](https://matthewtrent.me/stats) <sup>(private repo.)</sup>
-- My learn-to-code [Discord server](https://discord.gg/cWHnQFSfMy) <sup>(hosting hackathons!)</sup>
+- *[private repo]* My R&D decentralized peer-to-peer search engine: [Kurlox](https://kurlox.com)
+- *[private repo]* My social media app startup: [Confesi](https://confesi.com) <sub>([state of development + images](https://matthewtrent.me/articles/state-of-confesi))</sub>
+- *[private repo]* [Portfolio website](https://matthewtrent.me), [blog](https://matthewtrent.me/articles), [social links](https://matthewtrent.me/socials), [resume](https://matthewtrent.me/resume.pdf), & [live stats](https://matthewtrent.me/stats)
+- My learn-to-code [Discord server](https://discord.gg/cWHnQFSfMy) (hosting hackathons)
 
 ### ⭐️ My mini-projects for your GitHub
 
