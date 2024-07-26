@@ -1,5 +1,8 @@
 # `fmt.Println("Hello world, I'm Matthew")`
-![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg) 
+
+[![join my discord](https://dcbadge.limes.pink/api/server/https://discord.gg/coder-s-cove-1042720184391172159)](https://discord.gg/https://discord.gg/coder-s-cove-1042720184391172159)
+
+
 ### ⭐️ Things of interest
 
 - My R&D decentralized peer-to-peer search engine: [Kurlox](https://kurlox.com)
