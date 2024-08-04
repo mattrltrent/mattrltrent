@@ -1,7 +1,6 @@
 # `fmt.Println("Hello world, I'm Matthew")`
 
-[![join my discord](https://dcbadge.limes.pink/api/server/https://discord.gg/coder-s-cove-1042720184391172159)](https://discord.gg/https://discord.gg/coder-s-cove-1042720184391172159)
-
+![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
 ### ⭐️ Things of interest
 
