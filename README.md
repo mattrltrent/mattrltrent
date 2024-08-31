@@ -1,5 +1,7 @@
 # `fmt.Println("Hello world, I'm Matthew")`
 
+<sup>Honors CS BSc from the [University of Victoria](https://uvic.ca) ('21 - Aug '24)</sup>
+
 ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
 ### ⭐️ Things of interest
