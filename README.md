@@ -6,8 +6,8 @@ _Most of my interesting projects are private, but I'd love to chat with you abou
 
 ### ⭐️ Things of interest
 
-- My R&D decentralized peer-to-peer search engine: [Kurlox](https://kurlox.com)
-- My social media app: [Confesi](https://confesi.com) <sup>([state of development & images](https://matthewtrent.me/articles/state-of-confesi))</sup>
+- My R&D decentralized peer-to-peer search engine: [@KurloxSearchEngine](https://github.com/KurloxSearchEngine)
+- My social media app: [@confesi](https://github.com/confesi)
 - My [portfolio website](https://matthewtrent.me), [blog](https://matthewtrent.me/articles), [social links](https://matthewtrent.me/socials), [resume](https://matthewtrent.me/resume.pdf), & [live stats](https://matthewtrent.me/stats)
 - My [coding Discord server](https://discord.gg/cWHnQFSfMy) where I host [hackathons](https://matthewtrent.me/series/covehack)
 
