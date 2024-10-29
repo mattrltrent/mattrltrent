@@ -1,4 +1,4 @@
-# `fmt.Println("Hello world, I'm Matthew")`
+# `fmt.Println("Hello world, I'm Matt")`
 
 _Most of my interesting projects are private, but I'd love to chat with you about them_
 
