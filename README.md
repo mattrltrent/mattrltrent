@@ -7,7 +7,7 @@ _Most of my interesting projects are private, but I'd love to chat with you abou
 - My R&D decentralized peer-to-peer search engine: [@KurloxSearchEngine](https://github.com/KurloxSearchEngine) (repos private for now).
 - My social media app: [@confesi](https://github.com/confesi) (now open-source).
 - A current project: [@dormside](https://github.com/dormside) (repos private for now).
-- My packages for: [Go](https://pkg.go.dev/github.com/mattrltrent/jsonencryption), [TS/JS](https://www.npmjs.com/~mattrltrent), & [Dart/Flutter](https://pub.dev/publishers/matthewtrent.me/packages).
+- My packages for: [Go](https://pkg.go.dev/github.com/mattrltrent/jsonencryption), [TS/JS](https://www.npmjs.com/~mattrltrent), [Homebrew](https://github.com/mattrltrent/homebrew-tap/tree/main/Formula), & [Dart/Flutter](https://pub.dev/publishers/matthewtrent.me/packages).
 - My [portfolio website](https://matthewtrent.me), [blog](https://matthewtrent.me/articles), [social links](https://matthewtrent.me/socials), [resume](https://matthewtrent.me/resume), & [live stats](https://matthewtrent.me/stats).
 - My [coding Discord server](https://discord.gg/cWHnQFSfMy) where I host [hackathons](https://matthewtrent.me/series/covehack).
 - Fun facts: I can type over 200 WPM, ride a unicycle, & enjoy long-distance running.
