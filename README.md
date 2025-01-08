@@ -12,4 +12,4 @@ _Most of my interesting projects are private, but I'd love to chat with you abou
 - My [coding Discord server](https://discord.gg/cWHnQFSfMy) where I host [hackathons](https://matthewtrent.me/series/covehack).
 - Fun facts: I can type over 200 WPM, ride a unicycle, & enjoy long-distance running.
 - In my most recent SWE position, I mainly used TypeScript, Go, & Rust.
-- Current interests: search engine architecture, massively scalable BFT SMR, & zk-SNARKs.
+- Current interests: distributed systems, search engine architecture, massively scalable BFT SMR, & zk-SNARKs.
