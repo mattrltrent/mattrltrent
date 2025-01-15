@@ -1,6 +1,6 @@
 ## `world := make(chan string, 1) ; world <- "Hello"`
 
-<sub>Like my Stack Overflow badge? Use my API & [add it yourself](https://github.com/mattrltrent/stackoverflow_badge).</sub>
+<sub>Like my Stack Overflow badge? [Add it yourself](https://github.com/mattrltrent/stackoverflow_badge) with my API.</sub>
 
 [![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year&mini=true)](https://stackoverflow.com/users/13029516/matthew-trent) ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
