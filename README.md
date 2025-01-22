@@ -3,7 +3,7 @@
 
 [![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=13029516&period=year&mini=true)](https://stackoverflow.com/users/13029516/matthew-trent) ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
-<sup>↑ Like my Stack Overflow badge? [Use it yourself with my API](https://github.com/mattrltrent/stackoverflow_badge).</sup>
+<sup>↑ Like my Stack Overflow badge? [Use it yourself with my Rust API](https://github.com/mattrltrent/stackoverflow_badge). 🦀</sup>
 
 - My R&D decentralized peer-to-peer search engine: [@KurloxSearchEngine](https://github.com/KurloxSearchEngine) (repos private for now).
 - My social media app: [@confesi](https://github.com/confesi) (now open-source).
