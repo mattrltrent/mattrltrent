@@ -5,8 +5,8 @@
 
 <sup>↑ Like my Stack Overflow badge? [Use it yourself with my Rust API](https://github.com/mattrltrent/stackoverflow_badge). 🦀</sup>
 
-- (Largest project) My R&D decentralized peer-to-peer search engine: [@KurloxSearchEngine](https://github.com/KurloxSearchEngine) (repos private for now).
-- (2nd largest project) My social media app: [@confesi](https://github.com/confesi) (now open-source).
+- (Most complex project) My R&D decentralized peer-to-peer search engine: [@KurloxSearchEngine](https://github.com/KurloxSearchEngine) (repos private for now).
+- (Largest project) My social media app: [@confesi](https://github.com/confesi) (now open-source).
 - A current project: [@dormside](https://github.com/dormside) (repos private for now).
 - My packages for: [Go](https://pkg.go.dev/github.com/mattrltrent/jsonencryption), [TS/JS](https://www.npmjs.com/~mattrltrent), [Homebrew](https://github.com/mattrltrent/homebrew-tap/tree/main/Formula), & [Dart/Flutter](https://pub.dev/publishers/matthewtrent.me/packages).
 - My [portfolio website](https://matthewtrent.me), [blog](https://matthewtrent.me/articles), [social links](https://matthewtrent.me/socials), [resume](https://matthewtrent.me/resume), & [live (scraped) stats](https://matthewtrent.me/stats).
